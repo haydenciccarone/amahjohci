@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aitheixae.helloliquid.com/sitemap.xml
